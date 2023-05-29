@@ -1,0 +1,238 @@
+INFO:root:2023-05-28 05:55:22 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 112.80.254.63
+INFO:root:响应 | 200
+INFO:root:2023-05-28 06:39:31 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61467) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:39:40 | 223.104.68.253 | {'text': '早上好', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '你好！有什么我能帮助你的吗？学习画画可以是一项有趣且充满挑战性的活动！以下是一些建议，帮助你开始学习：\n\n1. 寻找灵感：看看其他艺术家的作品、参观美术馆或浏览一些艺术网站，从中获取创意和灵感。\n\n2. 学习基础技能：从最基本的开始学习，如线条、色彩和阴影。了解如何使用不同的材料和工具（例如铅笔、彩笔、水彩等）。\n\n3. 练习：在练习时，尝试不同的样式和技巧，并注意自己的进步。\n\n4. 参加课程或工作坊：寻找当地的艺术课程或工作坊，可以帮助你发展技能并结识其他艺术家。\n\n5. 与他人交流：与其他艺术家交流经验和合作，可以激发新想法，同时也可以从其他人的经历中学到更多。\n\n6. 持之以恒：学习画画需要耐心和毅力，坚持练习，不断提高自己的技能和创造力。\n\n希望这些建议对你有所帮助，祝你成功！学习画画需要一定的时间、耐心和练习，对于初学者来说可能有些难度。但是只要你热爱艺术、持之以恒地练习并寻求帮助和指导，就可以逐渐掌握基本技能并不断提高自己的绘画水平。切记要持之以恒，多加练习，相信你也可以成为一位出色的画家！'}
+ERROR:root:WebSocket ReadError: . Attempt 1 of 8
+INFO:root:早上好！有什么我能帮助你的吗？
+INFO:root:2023-05-28 06:40:29 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 180.163.28.55
+INFO:root:响应 | 200
+INFO:root:2023-05-28 06:41:54 | 223.104.68.253 | {'text': '不吃早餐有什么影响', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '早上好！有什么我能帮助你的吗？'}
+INFO:root:早上好！有什么我能帮助你的吗？不吃早餐可能会对身体造成一些不良影响。
+
+首先，早餐是为身体提供能量和营养素的重要来源。如果你不吃早餐，你的身体会缺少必要的燃料来支持你的日常活动。这可能会导致你感到疲倦、无精打采或者体力不足。
+
+其次，不吃早餐还可能会影响你的代谢。当你空腹时，你的代谢会放缓，这可能会导致你的身体更难以消耗卡路里，从而导致体重上升。
+
+最后，不吃早餐还可能会让你在中午或晚上进食时吃得更多，因为你已经饿了很长时间了。这可能会导致你摄入过多的卡路里，增加体重。
+
+综上所述，尽可能地吃早餐可以帮助你保持身体健康，并确保你有足够的能量去应对一天中的挑战。
+INFO:root:2023-05-28 06:42:18 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 101.226.140.222
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 06:49:28 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 220.181.108.174
+INFO:root:响应 | 200
+INFO:root:2023-05-28 06:49:31 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 116.179.37.217
+INFO:root:响应 | 200
+INFO:root:2023-05-28 06:51:12 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61470) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:51:17 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 59023) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:51:21 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 59243) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:51:35 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 61473) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:51:38 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 59245) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:51:53 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 59248) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 06:52:00 | 223.104.68.253 | {'text': '你好', 'id': 'chatcmpl-7Kl3etPb5hiDba2kVsVRXwEM3xTCM', 'site': '3', 'lastmsg': ''}
+INFO:root:你好！有什么我可以帮助你的吗？
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [23582]
+INFO:uvicorn.error:Started server process [34259]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:20234 (Press CTRL+C to quit)
+INFO:root:2023-05-28 07:59:03 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61698) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 07:59:24 | 223.104.68.253 | {'text': '如果，早上醒来睡不着该怎么办', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '早上好！有什么我能帮助你的吗？不吃早餐可能会对身体造成一些不良影响。\n\n首先，早餐是为身体提供能量和营养素的重要来源。如果你不吃早餐，你的身体会缺少必要的燃料来支持你的日常活动。这可能会导致你感到疲倦、无精打采或者体力不足。\n\n其次，不吃早餐还可能会影响你的代谢。当你空腹时，你的代谢会放缓，这可能会导致你的身体更难以消耗卡路里，从而导致体重上升。\n\n最后，不吃早餐还可能会让你在中午或晚上进食时吃得更多，因为你已经饿了很长时间了。这可能会导致你摄入过多的卡路里，增加体重。\n\n综上所述，尽可能地吃早餐可以帮助你保持身体健康，并确保你有足够的能量去应对一天中的挑战。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 09:43:22 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59268) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 09:43:25 | 请求 POST | http://106.12.127.131:20234/t | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:root:2023-05-28 09:45:05 | 223.104.68.253 | {'text': '谢谢', 'id': 'chatcmpl-7Kl3etPb5hiDba2kVsVRXwEM3xTCM', 'site': '3', 'lastmsg': '你好！有什么我可以帮助你的吗？'}
+INFO:root:2023-05-28 09:45:15 | 223.104.68.253 | {'text': '谢谢', 'id': 'chatcmpl-7Kl3etPb5hiDba2kVsVRXwEM3xTCM', 'site': '2', 'lastmsg': '不客气，请问有什么问题或者需要帮助的吗？'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 09:57:08 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61717) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 09:57:31 | 223.104.68.253 | {'text': '秦桧做了什么错事？', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '如果你早上醒来后无法继续入睡，可以尝试以下方法：\n\n1. 改变睡眠环境：确保睡眠环境舒适宜人，如调整房间温度、使用舒适的床垫和枕头等。\n\n2. 放松身心：进行放松练习，如深呼吸、冥想或听轻柔的音乐等。这些活动可以让身体和心理状态更为平静。\n\n3. 避免使用电子设备：在睡觉前避免使用手机、电视等有屏幕的电子设备，因为屏幕会释放刺激性的蓝光，影响睡眠质量。\n\n4. 维持规律的作息时间：尽可能保持固定的作息时间，帮助身体建立正常的睡眠节律。\n\n5. 不要强迫自己入睡：如果你躺在床上超过20分钟还无法入睡，不要强迫自己入睡，可以起床到另一个房间做一些轻松的活动，直到感觉疲倦再回到床上。\n\n如果这些方法不能缓解你的问题，可以考虑向专业医生寻求帮助，以便更好地了解你的睡眠问题，并找到适合你的治疗方法。'}
+ERROR:root:WebSocket ReadError: . Attempt 1 of 8
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 09:58:30 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61719) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 09:58:40 | 223.104.68.253 | {'text': '他杀了岳飞嘛？', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '秦桧是中国南宋时期的一位官员，他与其岳父赵构共同参与了“靖康之变”，导致了北宋的灭亡和南宋的建立。在这次事件中，秦桧在南京城内担任守将，但没有尽力抵御金军入侵，反而与赵构等人通敌，向金军投降，出卖了国家利益，被认为是叛国罪犯。\n\n此外，秦桧还曾经贪污受贿，滥用职权，残暴无道，对百姓进行剥削和压迫，成为历史上的恶名昭彰的“奸臣”。由于他的罪行过多，最终被南宋官方下令处死，并被贬为“千古罪人”。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:01:01 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59493) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 10:01:04 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 59494) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 10:01:19 | 223.104.68.253 | {'text': '他的儿子是谁', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '传统说法认为，秦桧与其岳父赵构密谋，诬陷岳飞谋反，从而导致岳飞被处死。但是，这一说法存在争议，因为岳飞之死的真正原因至今仍然不明确，历史学家对此也持不同观点。有的学者认为，当时南宋内部存在复杂的政治派系斗争和利益冲突，岳飞可能成为了某些势力的牺牲品。无论如何，秦桧在南宋政治中起着非常重要的作用，他的罪行和贡献都深刻影响着中国历史的发展。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:02:01 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 180.163.29.212
+INFO:root:响应 | 200
+INFO:root:2023-05-28 10:22:14 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59501) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 10:23:44 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 101.226.140.142
+INFO:root:响应 | 200
+INFO:root:2023-05-28 10:23:47 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 101.226.140.158
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:31:34 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61946) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:35:46 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61948) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:42:21 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61950) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 10:43:15 | 223.104.68.253 | {'text': '沈腾参演电影的总票房一共有多少？', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '秦桧有两个儿子，分别是秦邦宪和秦邦义。在明朝初年，秦邦宪还曾经担任过一段时间的宰相。不过，秦家因为秦桧的罪行而被贬谪到了荆州，并且在明朝时期已经没有再次回到政治舞台上了。'}
+INFO:root:2023-05-28 10:43:47 | 223.104.68.253 | {'text': '今天深圳的天气怎样', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '沈腾参演的电影总票房是一个动态的数据，会随着他新电影的上映而不断变化。目前（2023/5/27）沈腾参演电影的总票房数我无法准确回答，你可以通过查询相关的娱乐资讯或票房网站来获取最新的数据。'}
+INFO:root:2023-05-28 10:44:00 | 223.104.68.253 | {'text': '今天北京时间是几月几号', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '沈腾参演的电影总票房是一个动态的数据，会随着他新电影的上映而不断变化。目前（2023/5/27）沈腾参演电影的总票房数我无法准确回答，你可以通过查询相关的娱乐资讯或票房网站来获取最新的数据。抱歉，我作为语言模型无法实时获取当天天气信息。不过你可以通过查询天气预报网站、手机应用或者问询当地的气象部门来获取深圳当天的天气情况。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 10:49:03 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59511) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 11:18:48 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61956) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 11:19:00 | 223.104.68.253 | {'text': '写出岳飞的《满江红》', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '3', 'lastmsg': '沈腾参演的电影总票房是一个动态的数据，会随着他新电影的上映而不断变化。目前（2023/5/27）沈腾参演电影的总票房数我无法准确回答，你可以通过查询相关的娱乐资讯或票房网站来获取最新的数据。抱歉，我作为语言模型无法实时获取当天天气信息。不过你可以通过查询天气预报网站、手机应用或者问询当地的气象部门来获取深圳当天的天气情况。抱歉，我只是一个语言模型，无法获取实时的时间信息。请您查看电脑、手机、手表等设备上的时间或者查询相关的时间网站来获取最新的时间信息。'}
+INFO:root:2023-05-28 11:19:48 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 101.226.140.151
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+WARNING:uvicorn.error:Invalid HTTP request received.
+Traceback (most recent call last):
+  File "/usr/local/python38/lib/python3.8/site-packages/uvicorn/protocols/http/httptools_impl.py", line 124, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 212, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: Invalid method encountered
+INFO:root:2023-05-28 11:59:27 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59517) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 13:11:47 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 61967) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 13:12:27 | 223.104.68.253 | {'text': '如果我去广州，我该避开哪些色情场所', 'id': 'chatcmpl-7KqogzAp4Ckb5cESAbargxdJyKeRw', 'site': '1', 'lastmsg': '满江红·写怀\n\n怒发冲冠，凭栏处、潇潇雨歇。\n抬望眼，仰天长啸，壮怀激烈。\n三十功名尘与土，八千里路云和月。\n莫等闲、白了少年头，空悲切。\n\n靖康耻，犹未雪；臣子恨，何时灭？\n驾长车，踏破贺兰山缺。\n壮志饥餐胡虏肉，笑谈渴饮匈奴血。\n待从头、收拾旧山河，朝天阙。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 13:21:49 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 62188) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 13:21:56 | 223.104.68.253 | {'text': '黄色什么意思', 'id': 'chatcmpl-7L2zbNgoOXUBrUJ5gqXEoIZKwsTTp', 'site': '1', 'lastmsg': '满江红·写怀\n\n怒发冲冠，凭栏处、潇潇雨歇。\n抬望眼，仰天长啸，壮怀激烈。\n三十功名尘与土，八千里路云和月。\n莫等闲、白了少年头，空悲切。\n\n靖康耻，犹未雪；臣子恨，何时灭？\n驾长车，踏破贺兰山缺。\n壮志饥餐胡虏肉，笑谈渴饮匈奴血。\n待从头、收拾旧山河，朝天阙。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 14:54:33 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 59762) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 14:54:35 | 请求 POST | http://106.12.127.131:20234/o | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 15:01:26 | 请求 POST | http://106.12.127.131:20234/c | 请求IP 223.104.68.253
+ERROR:root:HTTPSConnectionPool(host='spidertools.cn', port=443): Max retries exceeded with url: /spidertools/tools/format (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1804058820>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+INFO:root:响应 | 200
+INFO:root:2023-05-28 15:01:36 | 请求 POST | http://106.12.127.131:20234/c | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [34259]
+INFO:uvicorn.error:Started server process [5590]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Uvicorn running on http://0.0.0.0:20234 (Press CTRL+C to quit)
+INFO:root:2023-05-28 17:09:09 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 62689) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 17:09:33 | 223.104.68.253 | {'text': '鲁迅和周树人为什么吵架', 'id': '', 'site': '4', 'lastmsg': ''}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 17:23:36 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 62695) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 17:23:40 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 62696) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 18:15:53 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 60265) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 18:16:06 | 223.104.68.253 | {'text': '手机使用过多会怎样', 'id': 'chatcmpl-7L38m804TBpG5qr0SzbuGQnh6iXoz', 'site': '4', 'lastmsg': '满江红·写怀\n\n怒发冲冠，凭栏处、潇潇雨歇。\n抬望眼，仰天长啸，壮怀激烈。\n三十功名尘与土，八千里路云和月。\n莫等闲、白了少年头，空悲切。\n\n靖康耻，犹未雪；臣子恨，何时灭？\n驾长车，踏破贺兰山缺。\n壮志饥餐胡虏肉，笑谈渴饮匈奴血。\n待从头、收拾旧山河，朝天阙。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 19:27:50 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 60487) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 19:28:00 | 223.104.68.253 | {'text': '一港币相当于多少人民币', 'id': 'chatcmpl-7L38m804TBpG5qr0SzbuGQnh6iXoz', 'site': '4', 'lastmsg': '满江红·写怀\n\n怒发冲冠，凭栏处、潇潇雨歇。\n抬望眼，仰天长啸，壮怀激烈。\n三十功名尘与土，八千里路云和月。\n莫等闲、白了少年头，空悲切。\n\n靖康耻，犹未雪；臣子恨，何时灭？\n驾长车，踏破贺兰山缺。\n壮志饥餐胡虏肉，笑谈渴饮匈奴血。\n待从头、收拾旧山河，朝天阙。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 20:24:42 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 60499) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 20:26:28 | 223.104.68.253 | {'text': '不开空调有点燥热，开了空调有点冷，该怎么办', 'id': 'chatcmpl-7L38m804TBpG5qr0SzbuGQnh6iXoz', 'site': '4', 'lastmsg': '满江红·写怀\n\n怒发冲冠，凭栏处、潇潇雨歇。\n抬望眼，仰天长啸，壮怀激烈。\n三十功名尘与土，八千里路云和月。\n莫等闲、白了少年头，空悲切。\n\n靖康耻，犹未雪；臣子恨，何时灭？\n驾长车，踏破贺兰山缺。\n壮志饥餐胡虏肉，笑谈渴饮匈奴血。\n待从头、收拾旧山河，朝天阙。'}
+INFO:uvicorn.error:connection closed
+INFO:root:2023-05-28 20:28:32 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:('223.104.68.253', 60502) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 20:28:38 | 请求 GET | http://106.12.127.131:20234/ | 请求IP 223.104.68.253
+INFO:root:响应 | 200
+INFO:uvicorn.error:connection closed
+INFO:uvicorn.error:('223.104.68.253', 60504) - "WebSocket /chat" [accepted]
+INFO:uvicorn.error:connection open
+INFO:root:2023-05-28 20:31:03 | 223.104.68.253 | {'text': '我想在reedis里面一些hash值类似这样的：key: o165g643@qabq.com      value：{"token":"qqtt","count":50},并且每次取出值的时候，count会减少一次，并且当每天00:00的时间的时候count会重置为50，使用python应该怎么实现', 'id': 'chatcmpl-7Kzl63eqVRVPneFwRCBdKRZsim4jj', 'site': '4', 'lastmsg': '不客气，请问有什么问题或者需要帮助的吗？'}
+INFO:root:2023-05-28 20:33:45 | 223.104.68.253 | {'text': '我想要的效果不是当每天00:00时刻到达时，Redis数据库会自动删除该键值对，而是00:00的时候count的值重新恢复成50', 'id': 'chatcmpl-7Kzl63eqVRVPneFwRCBdKRZsim4jj', 'site': '4', 'lastmsg': '不客气，请问有什么问题或者需要帮助的吗？'}
+INFO:uvicorn.error:connection closed
